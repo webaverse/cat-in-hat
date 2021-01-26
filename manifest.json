@@ -6,7 +6,7 @@
   "components": [
     {
       "type": "wear",
-      "offset": []
+      "offset": [0, 0, 0]
     }
   ]
 }
