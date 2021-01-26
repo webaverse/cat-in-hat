@@ -6,7 +6,7 @@
   "components": [
     {
       "type": "wear",
-      bone: "Head",
+      "bone": "Head",
       "position": [0, 0, 0],
       "scale": [0.1, 0.1, 0.1]
     }
