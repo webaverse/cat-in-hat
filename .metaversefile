@@ -1,7 +1,6 @@
 {
   "name": "cat-in-hat",
-  "description": "Cat in Hat XRPackage",
-  "xr_type": "webxr-site@0.0.1",
+  "description": "Cat in Hat",
   "start_url": "cat-in-hat.glb",
   "components": [
     {
